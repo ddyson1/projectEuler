@@ -7,7 +7,7 @@ for i in range(100):
 	n = (i + 1)*(i + 1)
 	sumsq  += n
 
-print(sumsq) 
+# print(sumsq) 
 
 for x in range(100):
 	x = x + 1
@@ -15,7 +15,7 @@ for x in range(100):
 
 sqsum = q*q
 
-print(sqsum)
+# print(sqsum)
 
 solution = sqsum - sumsq
 
